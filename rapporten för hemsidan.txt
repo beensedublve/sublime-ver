@@ -1,0 +1,50 @@
+rapport: 
+
+jag började med att skriva en orginal rapport där jag dokummenterade det jag 
+hade gjort och det jag skulle göra. Se Följande Rapport: 
+
+------------------------------------------------------------------------------------------------
+jag hade tänkt att sidan ska heta "Leo's Wiki om Grafikkort"
+
+längst up till vänster i sidan så kan det finnas en potentiel logga til sidan och om vänster om den
+finns titeln på just den delen av sidan vi är inne på kallas "The Pinnacles of GPU's" som då har
+en nav bar med ett par grafikkorts generationer "10 series" osv som om man trycker på tar fram en 
+drop box där alla modeller till varje gpu i respektive generation ska finnas.
+
+under allt det så har vi den stora och blanka delen av sidan där allt vi klickar på ska visas upp
+och så under den delan så i en mindre rectangel ska frågor och support finnas.
+
+så om vi nu till exempel trycker på 10 series får vi upp en lång sida neråt med bilder och info om 
+just den gpu'n man klickade på i drop boxen.
+
+först så kommer det vara en bild på självaste gpu'n till vänster och sen text om hur generellt 
+stark den är och vilken publik den tillhör, liksom om den är extra bra för produktivt arbete som 
+att rendera 3D sener i blender eller om den skiner extra vid Gaming sidan av rendering.
+
+sen så fortsätter man skrolla ner så ser man olika paragrafer om hur stark den är vid olika fronter
+som antalet "CUDA cores" eller tex vilket typ av minne den har tex "GDDR6X"
+
+Den 3dje sidan är om man klickar på frågor och support länkarna längst ner av hela sidan där det
+finns 3 boxar med olika typer av länkar i respektive box, i den första ska det finnas hjälp och FAQ
+i den andra finns det länkar till de andra GPU'erna i den 3dje boxen kan man hitta information om 
+"om oss" dvs jag som skapare och även TaC "terms and Conditions"
+
+Så det är layout'en på hemsidan. Temat på hemsidan kommer vara svart, vit och grön
+svart för det är väldigt sleek, vit så det står ut här och där och till sist grön för det är det
+alla GPU'er jag snackar om associeras med precis som xbox associeras med grön och playstation associeras 
+med blå färg så associeras dessa grafikkort med grön.""<
+---------------------------------------------------------- ------------------------------------------------
+
+till att börja med så ändrades webbsidans namn från "The Pinnacles of GPU's" till 
+"Seraph's Frame". Anledningen är att det är kortare och låter bättre, "seraph" som
+är en typ av ängel och "frame" som "fps". 
+
+upp till vänster blev det aldrig någon logga utan jag valde text istället, dels för
+att jag inte orkar göra en egen logotyp eller behöver en. men en titel på sidan 
+hade jag med, samt alla serier med drop down menus till varje generation
+
+sen dem kort vi klickar på kommer upp där nere, men det blev aldrig några boxes 
+där utan all support och frågor är längst nere på webbsidan
+
+bilder på den klickade gpu'n kom delvis up, max 2. info kom med efter bilderna
+men inga grafer och och den e bättre på gaming.
